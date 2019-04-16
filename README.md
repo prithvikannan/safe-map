@@ -4,4 +4,4 @@ The app lets users take photos of situations that they believe are dangerous, ch
 
 We built the app using react native for the front end, Firebase for the backend, and Google Cloud Vision and Natural Language Processing to verify dangerous situations.
 
-This app was sumbmitted to LAHacks with Aayush Patel, Manav Bhatia, Neel Saswade, and Nicolas Heuchert
+This app was submitted to LAHacks with Aayush Patel, Manav Bhatia, Neel Saswade, and Nicolas Heuchert
